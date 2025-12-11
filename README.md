@@ -42,8 +42,9 @@ I am a **Python Backend Developer** passionate about building scalable APIs and 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **Bookly** | [cite_start]A high-performance CRUD REST API service with async tasks and caching[cite: 32, 34]. | FastAPI, PostgreSQL, Redis, Celery, SQLModel |
-| **E-Shop** | [cite_start]A scalable multi-vendor e-commerce platform with Role-Based Access Control (RBAC)[cite: 21, 23, 24]. | Django, MVT, SQLite, Bootstrap |
-| **[WriteHub](https://github.com/dhruvitpatel950/blogproject)** | [cite_start]A feature-rich blogging platform with search filtering and user session management[cite: 26, 29]. | Django, ORM, Auth |
+| **[WriteHub](https://github.com/dhruvitpatel950/blogproject)** | Multi-user blogging platform with Auth & CRUD. | Django, SQLite |
+| **[Ecommerce Platform](https://github.com/dhruvitpatel950/Ecommerce-Project)** | Scalable shopping platform with cart & checkout. | Django, HTML/CSS |
+
 
 ---
 
