@@ -1,16 +1,55 @@
-## Hi there 👋
+### Hi there, I'm Dhruvit! 👋
 
-<!--
-**dhruvitpatel950/dhruvitpatel950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Python Backend Developer** passionate about building scalable APIs and secure web applications using **FastAPI** and **Django**.
 
-Here are some ideas to get you started:
+- [cite_start]💼 I’m currently a **Python Developer Intern** at **Bigscal Technologies**.
+- [cite_start]🚀 I’m currently building **Bookly**, an async API service with Redis & Celery.
+- 🌱 I’m currently exploring **System Design** and **Microservices Architecture**.
+- [cite_start]💬 Ask me about **FastAPI, Django, RBAC Systems, and SQL Optimization**[cite: 9, 10].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages and Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Top Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Bookly** | [cite_start]A high-performance CRUD REST API service with async tasks and caching[cite: 32, 34]. | FastAPI, PostgreSQL, Redis, Celery, SQLModel |
+| **E-Shop** | [cite_start]A scalable multi-vendor e-commerce platform with Role-Based Access Control (RBAC)[cite: 21, 23, 24]. | Django, MVT, SQLite, Bootstrap |
+| **[WriteHub](https://github.com/dhruvitpatel950/blogproject)** | [cite_start]A feature-rich blogging platform with search filtering and user session management[cite: 26, 29]. | Django, ORM, Auth |
+
+---
+
+<p align="left">
+<a href="http://www.linkedin.com/in/dhruvit-patel95">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>## Hi there 👋
+
