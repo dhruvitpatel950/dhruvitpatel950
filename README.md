@@ -2,10 +2,10 @@
 
 I am a **Python Backend Developer** passionate about building scalable APIs and secure web applications using **FastAPI** and **Django**.
 
-- [cite_start]💼 I’m currently a **Python Developer Intern** at **Bigscal Technologies**.
-- [cite_start]🚀 I’m currently building **Bookly**, an async API service with Redis & Celery.
+- 💼 I’m currently a **Python Developer Intern** at **Bigscal Technologies**.
+- 🚀 I’m currently building **Bookly**, an async API service with Redis & Celery.
 - 🌱 I’m currently exploring **System Design** and **Microservices Architecture**.
-- [cite_start]💬 Ask me about **FastAPI, Django, RBAC Systems, and SQL Optimization**[cite: 9, 10].
+- 💬 Ask me about **FastAPI, Django, RBAC Systems, and SQL Optimization**.
 
 ---
 
@@ -41,7 +41,7 @@ I am a **Python Backend Developer** passionate about building scalable APIs and 
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Bookly** | [cite_start]A high-performance CRUD REST API service with async tasks and caching[cite: 32, 34]. | FastAPI, PostgreSQL, Redis, Celery, SQLModel |
+| **Bookly** | A high-performance CRUD REST API service with async tasks and caching[cite: 32, 34]. | FastAPI, PostgreSQL, Redis, Celery, SQLModel |
 | **[WriteHub](https://github.com/dhruvitpatel950/blogproject)** | Multi-user blogging platform with Auth & CRUD. | Django, SQLite |
 | **[Ecommerce Platform](https://github.com/dhruvitpatel950/Ecommerce-Project)** | Scalable shopping platform with cart & checkout. | Django, HTML/CSS |
 
