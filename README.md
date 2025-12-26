@@ -32,7 +32,7 @@ I am a **Python Backend Developer** passionate about building scalable APIs, sec
 | **[EduCore LMS](https://github.com/dhruvitpatel950/educore-api)** | 🎓 **Senior-Level DRF API**. Features Role-Based Access Control (**RBAC**), atomic nested transactions, N+1 query optimization, and JWT authentication. | Django DRF, SimpleJWT, Swagger, Django-Filter |
 | **[TaskMaster](https://github.com/dhruvitpatel950/taskmaster-api)** | 🏆 **Production-Ready SaaS API**. Features multi-tenancy, async email workers, Docker containerization, and event-driven signals. | Django DRF, Celery, Redis, Docker, Postgres |
 | **[Bookly](https://github.com/dhruvitpatel950)** | High-performance Library API with async tasks, caching strategies, and background processing. | FastAPI, PostgreSQL, Redis, Celery |
-| **[WriteHub](https://github.com/dhruvitpatel950/blogproject)** | Multi-user blogging platform with Authentication & CRUD operations. | Django, SQLite, Bootstrap |
+| **[Ecommerce Platform](https://github.com/dhruvitpatel950/Ecommerce-Project)** | Scalable shopping platform with cart logic, checkout flow, and order management. | Django, HTML/CSS, SQLite |
 
 ### 📊 GitHub Stats
 
