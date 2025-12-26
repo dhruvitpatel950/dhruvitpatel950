@@ -52,7 +52,6 @@ I am a **Python Backend Developer** passionate about building scalable APIs, sec
 | **[WriteHub](https://github.com/dhruvitpatel950/blogproject)** | Multi-user blogging platform with Authentication & CRUD operations. | Django, SQLite, Bootstrap |
 | **[Ecommerce Platform](https://github.com/dhruvitpatel950/Ecommerce-Project)** | Scalable shopping platform with cart logic & checkout flow. | Django, HTML/CSS |
 
----
 
 ### 📊 GitHub Stats
 
@@ -60,8 +59,6 @@ I am a **Python Backend Developer** passionate about building scalable APIs, sec
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvitpatel950&show_icons=true&theme=tokyonight" alt="Dhruvit's Stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvitpatel950&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
-
----
 
 <p align="left">
 <a href="http://www.linkedin.com/in/dhruvit-patel95">
