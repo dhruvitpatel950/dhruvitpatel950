@@ -36,7 +36,7 @@ I am a **Python Backend Developer** passionate about building scalable APIs, sec
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=dhruvitpatel950&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
