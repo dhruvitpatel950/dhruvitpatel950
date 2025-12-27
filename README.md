@@ -36,12 +36,6 @@ I am a **Python Backend Developer** passionate about building scalable APIs, sec
 
 ---
 
-### 🏆 Achievements
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvitpatel950&theme=flat&no-frame=true&margin-w=15" alt="Dhruvit's Trophies" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruvitpatel950&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
