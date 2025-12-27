@@ -3,7 +3,7 @@
 I am a **Python Backend Developer** passionate about building scalable APIs, secure web applications, and event-driven architectures using **Django** and **FastAPI**.
 
 - 💼 I’m currently a **Python Developer Intern** at **Bigscal Technologies**.
-- 🚀 I’m currently building **TaskMaster**, an enterprise-grade async API with Docker & Celery.
+- 🚀 I’m currently building **DocuBrain**, an intelligent Async OCR microservice with Event-Driven Architecture.
 - 🌱 I’m deeply exploring **System Design**, **Microservices**, and **Containerization**.
 - 💬 Ask me about **Django DRF, Async Tasks, Docker, and SQL Optimization**.
 
@@ -30,19 +30,31 @@ I am a **Python Backend Developer** passionate about building scalable APIs, sec
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[EduCore LMS](https://github.com/dhruvitpatel950/educore-api)** | 🎓 **Senior-Level DRF API**. Features Role-Based Access Control (**RBAC**), atomic nested transactions, N+1 query optimization, and JWT authentication. | Django DRF, SimpleJWT, Swagger, Django-Filter |
-| **[TaskMaster](https://github.com/dhruvitpatel950/taskmaster-api)** | 🏆 **Production-Ready SaaS API**. Features multi-tenancy, async email workers, Docker containerization, and event-driven signals. | Django DRF, Celery, Redis, Docker, Postgres |
+| **[DocuBrain OCR](https://github.com/dhruvitpatel950/docubrain-ocr)** | 🧠 **Async OCR Microservice**. Features Event-Driven Architecture (Celery/Redis), Tesseract OCR for text extraction, and Regex parsing for automated data structuring. | Django DRF, Celery, Redis, Tesseract, Docker |
 | **[Bookly](https://github.com/dhruvitpatel950)** | High-performance Library API with async tasks, caching strategies, and background processing. | FastAPI, PostgreSQL, Redis, Celery |
 | **[Ecommerce Platform](https://github.com/dhruvitpatel950/Ecommerce-Project)** | Scalable shopping platform with cart logic, checkout flow, and order management. | Django, HTML/CSS, SQLite |
 
-### 📊 GitHub Stats
+---
+
+### 🏆 Achievements
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvitpatel950&show_icons=true&theme=tokyonight" alt="Dhruvit's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvitpatel950&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruvitpatel950&theme=flat&no-frame=true&margin-w=15" alt="Dhruvit's Trophies" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhruvitpatel950&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 📬 Connect with Me
 
 <p align="left">
   <a href="http://www.linkedin.com/in/dhruvit-patel95">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
